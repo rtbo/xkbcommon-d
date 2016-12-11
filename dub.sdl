@@ -5,5 +5,5 @@ authors "Remi Thebault"
 license "MIT"
 targetType "library"
 libs "xkbcommon" "xkbcommon-x11"
-dependency "xcb-d" version="~>1.11.1"
+dependency "xcb-d" version="~>2.1.0"
 
